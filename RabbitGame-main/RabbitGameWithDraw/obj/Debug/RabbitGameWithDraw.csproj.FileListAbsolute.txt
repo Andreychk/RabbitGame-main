@@ -1,0 +1,27 @@
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe.config
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.pdb
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Form1.resources
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Properties.Resources.resources
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.exe
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.pdb
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe.config
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.pdb
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Form1.resources
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Properties.Resources.resources
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.exe
+C:\Users\artur\Desktop\Penza State University\КГ\RabbitGameWithDraw\RabbitGame\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.pdb
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe.config
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.exe
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\bin\Debug\RabbitGameWithDraw.pdb
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csprojAssemblyReference.cache
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Form1.resources
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.Properties.Resources.resources
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.csproj.GenerateResource.cache
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.exe
+C:\Users\bossd\Downloads\RabbitGame-main\RabbitGame-main\RabbitGameWithDraw\obj\Debug\RabbitGameWithDraw.pdb
